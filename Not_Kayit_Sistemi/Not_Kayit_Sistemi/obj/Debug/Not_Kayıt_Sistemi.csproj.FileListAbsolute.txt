@@ -1,0 +1,16 @@
+C:\Users\beste\source\repos\Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.exe.config
+C:\Users\beste\source\repos\Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.exe
+C:\Users\beste\source\repos\Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\Not_Kayit_Sistemi.pdb
+C:\Users\beste\source\repos\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayıt_Sistemi.csproj.AssemblyReference.cache
+C:\Users\beste\source\repos\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayıt_Sistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\beste\source\repos\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.Form1.resources
+C:\Users\beste\source\repos\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\ogrenciDetay.FrmOgrenciDetay.resources
+C:\Users\beste\source\repos\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\FRMogretmenDetay.FrmogretmenDetay.resources
+C:\Users\beste\source\repos\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.Properties.Resources.resources
+C:\Users\beste\source\repos\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayıt_Sistemi.csproj.GenerateResource.cache
+C:\Users\beste\source\repos\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayıt_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\beste\source\repos\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.exe
+C:\Users\beste\source\repos\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayit_Sistemi.pdb
+C:\Users\beste\source\repos\Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\System.Data.SqlClient.dll
+C:\Users\beste\source\repos\Not_Kayit_Sistemi\Not_Kayit_Sistemi\bin\Debug\System.Data.SqlClient.xml
+C:\Users\beste\source\repos\Not_Kayit_Sistemi\Not_Kayit_Sistemi\obj\Debug\Not_Kayıt_Sistemi.csproj.CopyComplete
